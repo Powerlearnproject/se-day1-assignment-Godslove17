@@ -57,6 +57,34 @@ These milestones reflect the ongoing efforts to improve software engineering pra
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
+The phases of the Software Development Life Cycle (SDLC) are:
+
+1. Planning
+2. Requirements Analysis
+3. Design
+4. Implementation (Coding)
+4. Testing
+5. Deployment
+6. Maintenance
+
+The Software Development Life Cycle (SDLC) consists of several phases that guide the process of software development from initial concept to final release and maintenance. Here are the key phases:
+
+1. Planning: In this phase, project goals, scope, resources, timelines, and risks are defined. It involves feasibility studies and the creation of a project plan to outline how the project will be executed.
+
+2. Requirements Analysis: This phase involves gathering and analyzing the needs and requirements of the stakeholders. It includes documenting functional and non-functional requirements to ensure that the software meets the users' needs.
+
+3. Design: During the design phase, the software's architecture and detailed design are created. This includes defining the system’s structure, user interfaces, database schema, and interactions among components.
+
+4. Implementation (Coding): This phase involves writing the actual code based on the design specifications. Developers build the software by translating design documents into a functional program.
+
+5. Testing: In this phase, the software is rigorously tested to identify and fix bugs or issues. Testing ensures that the software meets the specified requirements and functions correctly in different scenarios.
+
+6. Deployment: After successful testing, the software is released to the users. This phase involves installing and configuring the software in the production environment.
+
+7. Maintenance: Once deployed, the software enters the maintenance phase, where it is updated, patched, and enhanced based on user feedback and evolving requirements. This phase ensures the software remains functional and relevant over time.
+
+These phases help ensure that the software is developed systematically and meets quality standards, ultimately leading to a successful product.
+
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
